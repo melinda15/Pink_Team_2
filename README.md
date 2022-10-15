@@ -1,7 +1,3 @@
-Hugo Xu
+Aaron Chan
 
-I learned that GitHub is a space you can easily store work.
- 
-Melinda Yee
-
-Creating a repository on Github Desktop.
+I learned that Github has a version control system.
