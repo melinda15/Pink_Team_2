@@ -1,2 +1,3 @@
-# Pink_Team_2
+Hugo Xu
+I learned that GitHub is a space you can easily store work.
  
